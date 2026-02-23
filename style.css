@@ -8,7 +8,7 @@ body {
 .header{
     padding:150px;
     background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-                    url("images/background1.jpg");
+                    url("background1.jpg");
     color: white;
     border-color: black;
     font-size: x-large;
@@ -239,4 +239,5 @@ font-weight: bold;
     color: #ffffff;
     text-align: left;
     padding: 20px;
+
 }
